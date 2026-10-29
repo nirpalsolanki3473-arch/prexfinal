@@ -224,7 +224,7 @@ To display your dashboard on the GitHub repository page, upload your screenshot 
 ```markdown
 ## Dashboard Screenshot
 
-![Pizza Delivery Performance Dashboard](images/pizza-delivery-dashboard.png)
+![Pizza Delivery Performance Dashboard](Screenshot 2026-10-29 143158.png)
 ```
 
 ---
