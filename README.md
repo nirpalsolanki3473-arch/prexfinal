@@ -217,16 +217,8 @@ Pizza-Delivery-Performance-Dashboard/
 
 The structure above is a recommendation. Upload your actual workbook and dashboard screenshot, and update the filenames if you rename them.
 
-### Dashboard Screenshot
-
-To display your dashboard on the GitHub repository page, upload your screenshot to the `images` folder and include:
-
-```markdown
 ## Dashboard Screenshot
-
-![Pizza Delivery Performance Dashboard](Screenshot 2026-10-29 143158.png)
-```
-
+![Pizza Delivery Dashboard](Screenshot%202026-10-29%20143158.png)
 ---
 
 ## 🚀 How to Use
